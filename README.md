@@ -6,6 +6,8 @@ This script will recursively scan directories, calculate their sizes, and log th
 
 Useful for working out what's using up space on a drive. The output log file can be grepped or used for further analysis.
 
+![Directory Size Analyzer](screenshot.png)
+
 ## How to Use
 
 1. **Specify the Root Directory and Log File:**
